@@ -1,2 +1,21 @@
-# Project exclude paths
-/out/
+# Compiled Java files & build output
+*.class
+out/
+build/
+target/
+
+# IntelliJ IDEA configuration files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
