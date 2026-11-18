@@ -1,6 +1,6 @@
 // This program demonstrates the ternary operator as a shorthand for if-else.
 
-package week3;
+package week03;
 
 public class TernaryDemo {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // This program prints the day name using a switch statement.
-package week3;
+package week03;
 
 public class DaySwitch {
     public static void main(String[] args) {

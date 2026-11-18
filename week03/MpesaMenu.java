@@ -1,5 +1,5 @@
 // This program simulates a simple M-Pesa agent menu using a switch statement.
-package week3;
+package week03;
 import java.util.Scanner; // Import the Scanner class for user input.
 
 public class MpesaMenu {

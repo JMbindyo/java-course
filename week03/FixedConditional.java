@@ -1,5 +1,5 @@
 // This program corrects the logic error.
-package week3;
+package week03;
 
 public class FixedConditional {
     public static void main(String[] args) {

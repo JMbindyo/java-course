@@ -1,5 +1,5 @@
 // This program verifies the analysis of a complex boolean expression.
-package week3;
+package week03;
 
 public class BooleanAnalysis {
     public static void main(String[] args) {
