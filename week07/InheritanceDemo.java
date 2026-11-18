@@ -1,4 +1,4 @@
-package week7;
+package week07;
 
 // This program demonstrates the basics of inheritance using the 'extends' keyword.
 

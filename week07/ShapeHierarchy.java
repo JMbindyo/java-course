@@ -1,4 +1,4 @@
-package week7;
+package week07;
 
 // This program demonstrates designing a class hierarchy with inheritance.
 

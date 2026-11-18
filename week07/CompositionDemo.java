@@ -1,4 +1,4 @@
-package week7;
+package week07;
 
 // This program demonstrates Composition (HAS-A relationship).
 // We use instance variables instead of 'extends'.
