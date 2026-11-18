@@ -1,4 +1,4 @@
-package week8;
+package week08;
 // This program applies Abstract Classes and Polymorphism to a Fintech scenario.
 
 // Abstract Superclass

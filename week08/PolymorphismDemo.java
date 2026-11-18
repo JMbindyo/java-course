@@ -1,4 +1,4 @@
-package week8;
+package week08;
 
 // This program demonstrates Polymorphism ("Many Forms").
 // It shows how a superclass reference can point to a subclass object.

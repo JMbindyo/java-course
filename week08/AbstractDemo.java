@@ -1,4 +1,4 @@
-package week8;
+package week08;
 
 // This program demonstrates Abstract Classes.
 // An abstract class cannot be instantiated (you cannot do 'new Shape()').

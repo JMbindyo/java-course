@@ -1,4 +1,4 @@
-package week8;
+package week08;
 // This program demonstrates Upcasting, Downcasting, and how to prevent
 // the dreaded ClassCastException using the 'instanceof' operator.
 
