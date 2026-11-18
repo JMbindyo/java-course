@@ -1,4 +1,4 @@
-package week9;
+package week09;
 
 // This program demonstrates how a class can implement multiple interfaces.
 // This is Java's way of achieving "multiple inheritance" of type.

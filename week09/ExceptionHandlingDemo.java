@@ -1,4 +1,4 @@
-package week9;
+package week09;
 // This program demonstrates Exception Handling using try-catch-finally blocks.
 
 public class ExceptionHandlingDemo {

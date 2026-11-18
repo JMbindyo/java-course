@@ -1,4 +1,4 @@
-package week9;
+package week09;
 
 // This program demonstrates the difference between an Abstract Class and an Interface.
 
