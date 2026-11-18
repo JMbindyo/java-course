@@ -4,10 +4,10 @@ package week03;
 public class DaySwitch {
     public static void main(String[] args) {
 
-// Declare a variable for day number.
+        // Declare a variable for day number.
         int day = 3;
 
-// Use switch to determine the day name.
+        // Use switch to determine the day name.
         switch (day) {
             case 1:
                 System.out.println("Monday");

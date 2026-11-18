@@ -4,10 +4,10 @@ package week03;
 public class DayIfElse {
     public static void main(String[] args) {
 
-// Declare a variable for day number.
+        // Declare a variable for day number.
         int day = 3;
 
-// Use if-else-if to determine the day name.
+        // Use if-else-if to determine the day name.
         if (day == 1) {
             System.out.println("Monday");
         } else if (day == 2) {
