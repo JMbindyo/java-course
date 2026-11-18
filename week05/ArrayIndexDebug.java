@@ -1,4 +1,4 @@
-package week5;
+package week05;
 // This program contains array index errors. Can you find and fix them?
 
 public class ArrayIndexDebug {

@@ -1,5 +1,5 @@
 // This program demonstrates the basics of arrays in Java.
-package week5;
+package week05;
 
 public class ArrayBasics {
     public static void main(String[ ] args) {

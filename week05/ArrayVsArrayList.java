@@ -1,9 +1,8 @@
-package week5;
+package week05;
 // This program compares arrays and ArrayLists by implementing
 // the same task (managing student names) using both data structures.
 
 // Import Scanner for input and ArrayList for the list.
-import java.util.Scanner;
 import java.util.ArrayList;
 
 public class ArrayVsArrayList {

@@ -1,4 +1,4 @@
-package week5;
+package week05;
 // This program integrates arrays and ArrayLists to manage a student roster.
 // It uses an array for fixed data (subjects) and an ArrayList for dynamic
 // data (student names and marks).

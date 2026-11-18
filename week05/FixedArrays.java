@@ -1,4 +1,4 @@
-package week5;
+package week05;
 // This program contains the corrected versions of the array bugs.
 
 public class FixedArrays {

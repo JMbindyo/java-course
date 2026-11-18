@@ -1,5 +1,4 @@
-package week5;
-import java.util.Scanner;
+package week05;
 
 // This program demonstrates common array algorithms:
 // - Finding the maximum value

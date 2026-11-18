@@ -1,4 +1,4 @@
-package week5;
+package week05;
 // This program demonstrates two-dimensional (2D) arrays in Java.
 // 2D arrays are useful for tables, grids, and matrices.
 
