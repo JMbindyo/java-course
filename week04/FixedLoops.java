@@ -1,5 +1,5 @@
 // This program contains the corrected versions of the infinite loops.
-package week4;
+package week04;
 
 public class FixedLoops {
     public static void main(String[] args) {

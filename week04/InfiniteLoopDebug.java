@@ -1,5 +1,5 @@
 // This program contains infinite loops. Can you find and fix them?
-package week4;
+package week04;
 
 public class InfiniteLoopDebug {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 // This program analyzes the efficiency of different loop algorithms.
 // It counts the number of iterations for each algorithm.
 
-package week4;
+package week04;
 
 public class LoopEfficiency {
     public static void main(String[] args) {

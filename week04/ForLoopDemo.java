@@ -1,6 +1,6 @@
 // This program demonstrates the for loop with various examples.
 // The for loop is ideal when the number of iterations is known.
-package week4;
+package week04;
 
 public class ForLoopDemo {
     public static void main(String[] args) {

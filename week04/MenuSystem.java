@@ -1,12 +1,13 @@
 // This program demonstrates the do-while loop using a menu system.
 // The menu is displayed at least once, then repeats until the user exits.
-package week4;
+package week04;
 
 // Import the Scanner class for user input.
 import java.util.Scanner;
 
 public class MenuSystem {
     public static void main(String[] args) {
+
         // Create a Scanner object to read input from the keyboard.
         Scanner scanner = new Scanner(System.in);
 
@@ -14,12 +15,12 @@ public class MenuSystem {
         // Initialize to 0 so we can enter the loop.
         int choice = 0;
 
-// ============================================================
-// DO-WHILE LOOP: Display menu at least once, repeat until exit.
-// ============================================================
-// The loop body executes FIRST, then the condition is checked.
-// This guarantees the menu appears at least once.
-// ============================================================
+        // ============================================================
+        // DO-WHILE LOOP: Display menu at least once, repeat until exit.
+        // ============================================================
+        // The loop body executes FIRST, then the condition is checked.
+        // This guarantees the menu appears at least once.
+        // ============================================================
 
         do {
             // Display the menu options.
@@ -36,9 +37,9 @@ public class MenuSystem {
             choice = scanner.nextInt();
             scanner.nextLine(); // Consume the newline character.
 
-// ============================================================
-// SWITCH STATEMENT: Handle the user's choice.
-// ============================================================
+            // ============================================================
+            // SWITCH STATEMENT: Handle the user's choice.
+            // ============================================================
 
             switch (choice) {
                 case 1:

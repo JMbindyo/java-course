@@ -1,6 +1,6 @@
 // This program demonstrates nested loops by generating various patterns.
 
-package week4;
+package week04;
 // Import Scanner for user input.
 import java.util.Scanner;
 
