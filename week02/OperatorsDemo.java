@@ -1,30 +1,32 @@
+package week02;
+
 // This program demonstrates arithmetic, relational, and logical operators.
 // It also shows operator precedence and type conversion.
 
 public class OperatorsDemo {
     public static void main(String[] args) {
 
-// ============================================================
-// ARITHMETIC OPERATORS
-// ============================================================
+        // ============================================================
+        // ARITHMETIC OPERATORS
+        // ============================================================
 
-// Declare two integer variables.
+        // Declare two integer variables.
         int a = 17;
         int b = 5;
 
-// Addition: adds two numbers.
+        // Addition: adds two numbers.
         int sum = a + b;
 
-// Subtraction: subtracts second from first.
+        // Subtraction: subtracts second from first.
         int difference = a - b;
 
-// Multiplication: multiplies two numbers.
+        // Multiplication: multiplies two numbers.
         int product = a * b;
 
-// Division: integer division (decimal part truncated).
+        // Division: integer division (decimal part truncated).
         int quotient = a / b;
 
-// Modulus: remainder of division.
+        // Modulus: remainder of division.
         int remainder = a % b;
 
         System.out.println("=== ARITHMETIC OPERATORS ===");
@@ -35,27 +37,27 @@ public class OperatorsDemo {
         System.out.println("Quotient (a / b): " + quotient);
         System.out.println("Remainder (a % b): " + remainder);
 
-// ============================================================
-// OPERATOR PRECEDENCE
-// ============================================================
+        // ============================================================
+        // OPERATOR PRECEDENCE
+        // ============================================================
 
-// Multiplication and division have higher precedence than addition.
-// Expression: 10 + 5 * 2
-// Step 1: 5 * 2 = 10
-// Step 2: 10 + 10 = 20
+        // Multiplication and division have higher precedence than addition.
+        // Expression: 10 + 5 * 2
+        // Step 1: 5 * 2 = 10
+        // Step 2: 10 + 10 = 20
         int precedence1 = 10 + 5 * 2;
 
-// Parentheses can override precedence.
-// Expression: (10 + 5) * 2
-// Step 1: 10 + 5 = 15
-// Step 2: 15 * 2 = 30
+        // Parentheses can override precedence.
+        // Expression: (10 + 5) * 2
+        // Step 1: 10 + 5 = 15
+        // Step 2: 15 * 2 = 30
         int precedence2 = (10 + 5) * 2;
 
-// Modulus has same precedence as multiplication and division.
-// Expression: 20 % 3 + 4 * 2
-// Step 1: 20 % 3 = 2
-// Step 2: 4 * 2 = 8
-// Step 3: 2 + 8 = 10
+        // Modulus has same precedence as multiplication and division.
+        // Expression: 20 % 3 + 4 * 2
+        // Step 1: 20 % 3 = 2
+        // Step 2: 4 * 2 = 8
+        // Step 3: 2 + 8 = 10
         int precedence3 = 20 % 3 + 4 * 2;
 
         System.out.println("\n=== OPERATOR PRECEDENCE ===");
@@ -63,11 +65,11 @@ public class OperatorsDemo {
         System.out.println("(10 + 5) * 2 = " + precedence2);
         System.out.println("20 % 3 + 4 * 2 = " + precedence3);
 
-// ============================================================
-// RELATIONAL OPERATORS
-// ============================================================
+        // ============================================================
+        // RELATIONAL OPERATORS
+        // ============================================================
 
-// Relational operators return boolean values (true or false).
+        // Relational operators return boolean values (true or false).
         boolean isEqual = (a == b); // Equal to
         boolean isNotEqual = (a != b); // Not equal to
         boolean isGreater = (a > b); // Greater than
@@ -83,11 +85,11 @@ public class OperatorsDemo {
         System.out.println("a >= b: " + isGreaterOrEqual);
         System.out.println("a <= b: " + isLessOrEqual);
 
-// ============================================================
-// LOGICAL OPERATORS
-// ============================================================
+        // ============================================================
+        // LOGICAL OPERATORS
+        // ============================================================
 
-// Logical operators combine boolean expressions.
+        // Logical operators combine boolean expressions.
         boolean x = true;
         boolean y = false;
 
@@ -100,16 +102,16 @@ public class OperatorsDemo {
         System.out.println("x || y: " + orResult);
         System.out.println("!x: " + notResult);
 
-// ============================================================
-// INCREMENT AND DECREMENT OPERATORS
-// ============================================================
+        // ============================================================
+        // INCREMENT AND DECREMENT OPERATORS
+        // ============================================================
 
         int counter = 5;
 
-// Post-increment: use current value, then increment.
+        // Post-increment: use current value, then increment.
         int postIncrement = counter++;
 
-// Pre-increment: increment first, then use new value.
+        // Pre-increment: increment first, then use new value.
         int preIncrement = ++counter;
 
         System.out.println("\n=== INCREMENT/DECREMENT ===");
