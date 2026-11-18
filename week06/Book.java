@@ -1,4 +1,4 @@
-package week6;
+package week06;
 // This class represents a Book and follows encapsulation principles.
 
 public class Book {

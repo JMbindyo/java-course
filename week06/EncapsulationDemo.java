@@ -1,4 +1,4 @@
-package week6;
+package week06;
 // This program demonstrates why encapsulation is important.
 // It compares a poorly designed class (public fields) with a well-designed class (private fields).
 

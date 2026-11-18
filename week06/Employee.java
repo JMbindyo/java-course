@@ -1,4 +1,4 @@
-package week6;
+package week06;
 // This class demonstrates constructor chaining and the 'this' keyword.
 
 public class Employee {

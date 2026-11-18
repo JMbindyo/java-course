@@ -1,4 +1,4 @@
-package week6;
+package week06;
 // This class represents a Bank Account and enforces strict business rules using encapsulation.
 
 public class BankAccount {
