@@ -1,0 +1,10 @@
+SYSTEM - Registered new member: M-001 (Amina Wanjiku)
+SYSTEM - Registered new member: M-002 (Brian Ochieng)
+SYSTEM - Registered new member: M-003 (Faith Mutua)
+SYSTEM - Opened Savings Account M-001-4672 for member M-001
+SYSTEM - Opened Loan Account M-001-899 for member M-001
+SYSTEM - Opened Savings Account M-002-804 for member M-002
+M-001-4672 - Deposited Ksh. 25000.0 | New Balance: Ksh. 25000.0
+M-001-4672 - Withdrew Ksh. 5000.0 | New Balance: Ksh. 20000.0
+M-001-899 - Deposited Ksh. 10000.0 | New Balance: Ksh. 10000.0
+M-002-804 - Deposited Ksh. 15000.0 | New Balance: Ksh. 15000.0
